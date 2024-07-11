@@ -15,6 +15,13 @@
     "@nuxt/eslint": "^0.3.13",
     "@nuxtjs/tailwindcss": "^6.12.1",
     "nuxt": "^3.12.3",
-    "vue": "latest"
+    "@primevue/nuxt-module": "^4.0.0-rc.3",
+    "vue": "latest",
+    "@primevue/themes": "^4.0.0-rc.3",
+    "primeicons": "^7.0.0",
+    "primevue": "^4.0.0-rc.3"
+  },
+  "devDependencies": {
+
   }
 }

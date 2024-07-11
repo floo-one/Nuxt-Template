@@ -3,6 +3,7 @@
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
         "bradlc.vscode-tailwindcss",
-        "nuxtr.nuxtr-vscode"
+        "nuxtr.nuxtr-vscode",
+        "vue.volar"
     ]
 }

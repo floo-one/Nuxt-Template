@@ -1,7 +1,3 @@
 <template>
-  <div>
-    <p class="text-white text-9xl text-center min-h-screen bg-blue-950">
-      Starter Template
-    </p>
-  </div>
+  <div class="p-5 h-screen bg-white flex items-center justify-center" />
 </template>
