@@ -1,9 +1,8 @@
 {
     "recommendations": [
-        "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode",
-        "bradlc.vscode-tailwindcss",
-        "nuxtr.nuxtr-vscode",
-        "vue.volar"
+      "bradlc.vscode-tailwindcss",
+      "dbaeumer.vscode-eslint",
+      "nuxtr.nuxtr-vscode",
+      "vue.volar"
     ]
 }
