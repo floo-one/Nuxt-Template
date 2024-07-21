@@ -1,4 +1,11 @@
 ## Nuxt 3 Starter Kit
 
-```npm install```
-```npm run dev```
+- ESlint
+- Nuxt
+- Tailwind
+- DaisyUI
+- AOS
+
+
+```pnpm install```
+```pnpm run dev```
