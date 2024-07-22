@@ -22,6 +22,12 @@ export default defineNuxtConfig({
     },
   ],
 
+  eslint: {
+    config: {
+      standalone: false, // <-- Important to work correctly
+    },
+  },
+  
   tailwindcss: {
     cssPath: ['~/assets/css/tailwind.css', { injectPosition: "first" }],
     configPath: 'tailwind.config',
