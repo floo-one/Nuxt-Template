@@ -13,7 +13,7 @@ export default defineNuxtConfig({
     host: '0.0.0.0',
     port: '3000'
   },
-  modules: ["@nuxtjs/tailwindcss", "nuxt-aos", "@nuxt/icon", "@tresjs/nuxt"],
+  modules: ["@nuxtjs/tailwindcss", "nuxt-aos", "@nuxt/icon", "@nuxt/eslint"],
 
   plugins: [
     { 
