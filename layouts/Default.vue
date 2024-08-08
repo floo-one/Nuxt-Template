@@ -1,16 +1,12 @@
 <template>
-    <div class="min-w-screen min-h-svh flex flex-col justify-between">
-      <!-- Your header content -->
-      <CommonsGenericPanel class="z-10 place-content-start">
-        <AppHeader />
-      </CommonsGenericPanel>
-  
-      <main class="">
-        <slot />
-      </main>
-  
-      <CommonsGenericPanel class="z-10 place-content-end">
-        <AppFooter />
-      </CommonsGenericPanel>
-    </div>
-  </template>
+  <div class="flex min-h-svh w-screen flex-col justify-between">
+    <!-- Your header content -->
+    <NavigationTheHeader />
+
+    <main class="text-center">
+      <slot></slot>
+    </main>
+
+    <NavigationTheFooter />
+  </div>
+</template>

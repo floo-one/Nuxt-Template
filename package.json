@@ -1,9 +1,9 @@
 {
   "name": "nuxt-starter",
   "type": "module",
-  "author": "Floo.One",
   "version": "1.0.0",
   "private": true,
+  "author": "Floo.One",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev --host -o",
@@ -14,19 +14,19 @@
     "lint:fix": "eslint . --fix"
   },
   "dependencies": {
-    "@nuxt/eslint": "^0.3.13",
+    "@vueuse/motion": "^2.2.3",
+    "@vueuse/nuxt": "^10.11.1",
     "nuxt": "^3.12.3",
     "vue": "latest"
   },
   "devDependencies": {
-    "@stefanobartoletti/eslint-config": "^3.0.0",
-    "eslint": "^8.57.0",
-    "@nuxt/icon": "^1.1.1",
     "@iconify-json/twemoji": "^1.1.15",
+    "@nuxt/eslint": "^0.3.13",
+    "@nuxt/icon": "^1.1.1",
     "@nuxtjs/tailwindcss": "^6.12.1",
+    "@stefanobartoletti/eslint-config": "^3.0.0",
     "@tailwindcss/typography": "^0.5.13",
     "daisyui": "^4.12.10",
-    "aos": "^2.3.4",
-    "nuxt-aos": "^1.2.5"
+    "eslint": ""
   }
 }
