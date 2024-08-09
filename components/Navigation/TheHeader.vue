@@ -7,11 +7,11 @@
     </div>
     <div class="flex-none">
       <ul class="menu menu-horizontal px-1">
-        <NuxtLink to="/">
-          <li><a>Link</a></li>
+        <NuxtLink to="/gsap">
+          <li><a>GSAP</a></li>
         </NuxtLink>
-        <NuxtLink to="/">
-          <li><a>Link</a></li>
+        <NuxtLink to="/vuemotion">
+          <li><a>VUEMOTION</a></li>
         </NuxtLink>
       </ul>
     </div>

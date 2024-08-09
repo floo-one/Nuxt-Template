@@ -1,11 +1,11 @@
 <template>
   <div>
-    <h1>Index</h1>
+    <EmojiParachuteGasp />
+    <EmojiWeatherGsap />
   </div>
 </template>
 
 <script lang="ts" setup>
-
 </script>
 
 <style>
